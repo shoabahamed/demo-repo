@@ -1,3 +1,3 @@
 # DEMO
 
-Some description about the repository.
+Some description about the repo!
